@@ -1,0 +1,26 @@
+.box {
+   width: 200PX;
+    height: 200PX;
+    border: 4px solid;
+      
+
+}
+
+.parent {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;   
+}
+
+.block {
+    background: #60a839;
+    
+
+}
